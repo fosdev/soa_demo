@@ -1,5 +1,8 @@
 Schedule of Activities Demo App
 
+Installation:
+run rake setup after bundling gems.
+
 Stories:
  1. A user can create and manage custom menu items which include groups of links to site pages.
  2. A user views a menu with bold groups and normal links as a left sidebar on all pages.
@@ -30,5 +33,3 @@ Stories:
 18. A user can drag and drop a column in the grid to reposition it.
 19. A user views an under-populated grid with a "Google Stock Charts" like ajax population functionality to improve
     initial grid page load times.
-
-This file was modified by JetBrains RubyMine 3.2.4 for binding GitHub repository
