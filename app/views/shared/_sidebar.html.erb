@@ -1,0 +1,10 @@
+<h1>Menu</h1>
+<% menu_items.each do |menu_item| %>
+    <p>
+      <% if menu_item.link.blank? %>
+          <%= label_tag(menu_item.name) %>
+      <% else %>
+          <%= link_to(menu_item.name, menu_item.link) %>
+      <% end %>
+    </p>
+<% end %>

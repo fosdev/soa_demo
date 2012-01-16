@@ -1,0 +1,34 @@
+Schedule of Activities Demo App
+
+Stories:
+ 1. A user can create and manage custom menu items which include groups of links to site pages.
+ 2. A user views a menu with bold groups and normal links as a left sidebar on all pages.
+ 3. A user can click links in the sidebar menu to open pages.
+ 4. A user can create and manage tasks that have a name and description.
+ 5. A user can create and manage visits that have a name, description and a day.
+ 6. A user can view a grid with horizontal visits ordered by day and name and vertical tasks ordered by name.
+ 7. A user can click a "Create Task" button on the grid page that opens a popup to create a new task. The newly created
+    task should be visible in the grid.
+ 8. A user can click a "Create Visit" button on the grid page that opens a popup to create a new visit. The newly
+    created visit should be visible in the window.
+ 9. A user can double-click an empty cell that opens a popup to create an activity with a purpose selector and
+    footnotes field.
+10. A user views activities with:
+    a. A green check for an existing activity.
+    b. A red (-) sign if the activity has no purpose.
+    c. A blue corner triangle if it has footnotes.
+11. A user clicks a task to select it in the grid and to show the task info in a detail pane at the bottom of the page.
+12. A user clicks a visit to select it in the grid and to show the visit info in a detail pane at the bottom of the
+    page.
+13. A user clicks an activity to select it in the grid and to show the activity info in a detail pane at the bottom of
+    the page.
+14. A user double-clicks an existing activity in the pane to open a popup to edit it and simultaneously select it in
+    the grid and display its info in the detail pane.
+15. A user can delete an activity in the SOA view.
+16. A user can manage and sort the menu by drag and drop.
+17. A user can drag and drop a row in the grid to reposition it.
+18. A user can drag and drop a column in the grid to reposition it.
+19. A user views an under-populated grid with a "Google Stock Charts" like ajax population functionality to improve
+    initial grid page load times.
+
+This file was modified by JetBrains RubyMine 3.2.4 for binding GitHub repository

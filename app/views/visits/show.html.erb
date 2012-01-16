@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= visit.name %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= visit.description %>
+</p>
+
+<p>
+  <b>Day:</b>
+  <%= visit.day %>
+</p>
+
+
+<%= link_to 'Edit', edit_visit_path(visit) %> |
+<%= link_to 'Back', visits_path %>
