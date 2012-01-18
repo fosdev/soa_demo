@@ -27,7 +27,7 @@ Stories:
     the page.
 14. A user double-clicks an existing activity in the pane to open a popup to edit it and simultaneously select it in
     the grid and display its info in the detail pane.
-15. A user can delete an activity in the SOA view.
+15. A user can delete an activity in the grid view.
 16. A user can manage and sort the menu by drag and drop.
 17. A user can drag and drop a row in the grid to reposition it.
 18. A user can drag and drop a column in the grid to reposition it.
